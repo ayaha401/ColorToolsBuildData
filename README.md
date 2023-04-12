@@ -4,8 +4,8 @@
 
 # Version
 ## 最新バージョン
-[0.2.5](https://github.com/ayaha401/ColorToolsBuildData/releases/tag/v.0.2.5)
+[0.3.0](https://github.com/ayaha401/ColorToolsBuildData/releases/tag/v.0.3.0)
 ## 安定バージョン
-[0.2.3](https://github.com/ayaha401/ColorToolsBuildData/releases/tag/v.0.2.3)
+[0.2.5](https://github.com/ayaha401/ColorToolsBuildData/releases/tag/v.0.2.5)
 # ドキュメント
 今のところなし
